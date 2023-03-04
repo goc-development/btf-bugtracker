@@ -28,7 +28,7 @@ Include all relevant logs
 Add any other context about the problem here.
 
 ---
-*Place an X (no spaces) between the brackets to confirm that you have read the line below.*
+*Place an X (no spaces) between the brackets to confirm that you have read the lines below.*
 - [ ] I have provided reproduction instructions
 - [ ] I have replaced all fields (shown with CAPITALS) with the necessary information
 - [ ] I have included F9 logs if relevant
