@@ -32,3 +32,4 @@ Add any other context about the problem here.
 - [ ] I have provided reproduction instructions
 - [ ] I have replaced all fields (shown with CAPITALS) with the necessary information
 - [ ] I have included F9 logs if relevant
+- [ ] I have searched for similar issues to ensure this isnt duplicate
