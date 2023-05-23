@@ -2,7 +2,7 @@
 name: Adjustment
 about: Adjustments to a current feature
 title: "[IDEA] <TITLE>"
-labels: ajustment
+labels: adjustment
 assignees: ''
 
 ---
