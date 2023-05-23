@@ -1,7 +1,7 @@
 ---
 name: Adjustment
-about: Adjustments to a current feature
-title: "[IDEA] <TITLE>"
+about: Adjustments to a current feature, includes adding more of something
+title: "[ADJUSTMENT] <TITLE>"
 labels: adjustment
 assignees: ''
 
