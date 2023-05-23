@@ -1,6 +1,6 @@
 ---
 name: Game Idea
-about: Report a bug to be fixed
+about: A more general idea you want feedback on
 title: "[IDEA] Idea Title (should make your idea identifiable)"
 labels: idea
 assignees: ''
